@@ -588,7 +588,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Castelul Bran - Dracula's Castle - Casa din Bran
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726942854/ei/JrruZou5La21kucPzOj3gAM/ip/172.200.199.191/id/8hgQsI1CfsY.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241486/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxTAk6577mmPOTBM-Tc0gozZNS5YzTMTckJM205EFwyn9XRDy_XoxrkpcD4E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgd7XABy6b5Tb9FNjJoWM87BJt4AgI0ZsaaYFyDIvIa6QCIQDZSvVule8Ni-TCJc49cTjTbDu6W66k31qjpKpLb8vsJA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Sanctuarul de ursi Libearty Zarnesti
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -627,7 +627,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Czech Radio" tvg-logo="" tvg-id="", Cesky rozhlas Radiozurnal Sport - Pohled do studia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726942863/ei/L7ruZviUBLqAkucP_62k6Ao/ip/172.200.199.191/id/PrJe9MYgK0s.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51250684/txs/51250684%2C51250685%2C51250686%2C51250687%2C51250688/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxbeZR06XnzUPeSSiF1UZJ43nr1kw-KiK0AqzkX77XoJ1_R8iix-dbeMWY0U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWUJr23yOdJnRezMs_6N7Ih252gI_B8BqXK3IxkvCHNUCIC7ZJeiEVSznfwox96t_e2Ys7pLvGrbXR_QQMxuk2bAo/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Czech Radio" tvg-logo="" tvg-id="", Cesky rozhlas Hradec Kralove - Pohled na hosta
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
