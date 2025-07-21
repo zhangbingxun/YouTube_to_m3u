@@ -48,10 +48,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="830", Thanthi TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753081972/ei/FJR9aInOL9y0kucPx_GM8Q4/ip/20.55.118.193/id/J2H8rlJx9Ss.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478322/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLO2G65huTYuJPZKAJfe4GMtRkOPED7q9WTLYPcAYCJUlEaKORgEEUD6XWa1QchhwAikvxy9iQO2/spc/l3OVKa7VenzY6JdSKfk48QP9OUrfO3D2jcrZ-bWUmMleWt99SjbHFGZ0NZJztL-gv6I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK_UOBna46ESQpNxFo82fMXI1sQuCiDK3Em8DKA_sLS5AiA3lixBiLJPSLacxXUfGpTdNYXOyuiExrB78ch8tP4sIw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", New18 TamilNadu
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753081973/ei/FZR9aPX6Ir3GkucP2su0sAk/ip/20.55.118.193/id/dvL7oIOjPOw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLN2HZsGmRsyv_vmMZgb7WTGjPdEEesg07UqLH67EX1DcE8uCxjbImXbbJM3NTbBb1SZh9dqRjc4/spc/l3OVKVqxvOR-ZBnprJLnGSI01E-_foJKHjHW8v-KiYqUA9XZuwtE0WLAZge3j74wzvk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK9pH9ElnUNGEF5jPw-reWELiK90W_iJ6VQx1sECA1IPAiEAgbEbRDXRPW6sIya-4C0XcbxFyTJMzOCBktCfToig77c%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -729,7 +729,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Times Square" tvg-logo="" tvg-id="", Times Square: 1560 Broadway View Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753067780/ei/o1x9aLG4OoTEkucPh6nsKA/ip/20.57.77.195/id/4qyZLflp-sI.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478322/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOCN8XTlr6qx-EA7gebsIuJ7hoDjTUzVkYc80WBjR6z42cNq9bfQPWcF6mMGbBdj3Z0v4FiBHq3/spc/l3OVKf7SYNmUxPnQqVpJ6Yi0N9r4z5eyfgVJz5f6jIKQRuTulhCWPKfjvrykQZIJLmI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMfV_5glONyi3tzvga90AEeBFRhMP-_upIXSAuhyxtYTAiEAk-2oGIg410s1hiTmnbYa8Yg5js7JgNSwgUjQO3x8eNM%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Camera" tvg-logo="" tvg-id="", Dubuque County - Dome
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
