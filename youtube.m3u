@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", New18 TamilNadu
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762290877/ei/XRgKabXhDPKAkucPp82KOA/ip/4.246.135.67/id/H9Tmfg-pzSM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5QmIPbze5_wJmxk9mSnwJ_rkmEhKtwyojlufJ5NGIPbmoNIp_VVLAxcRz6vcxrMLIqxVsCIIZXh/spc/6b0G_C7z7F3SiOtB4veALtExbWd8GJXmEwVUjojP5RMyfu_rrxBpxfzB4N0KXfZeMsQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANUXogUcem2Gxdus8WDWHzllygCLkGXUUk4LXWkmpq3LAiB4h0A__vS_4Nt8zqwB1_D1pJnITsBYPzI939VIY1bJ-g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -192,7 +192,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Best Shuffle Dance Music 2021
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762290921/ei/iRgKaeudD4u9kucPuPWYyAo/ip/4.246.135.67/id/qWf-FPFmVw0.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TJC5XTM8K2zY2E324yTq3-UvdYIUgRiBuEaj0zYOWGWosYf6G2sxOhj2ecdlBYdXooxfn15aZU/spc/6b0G_HqZdMjQXGcfcaxNVh1Js0RD1OHUEeQv1Lr_8FIgiXgvF-QOOyXpIx9lnGg0XfA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgP9iHWTaheKWKnqxGaHZFnV5Nz9kS8mHnSaJ8cCnrKr8CIQC9wehbUGaLC0LirKWzB9tGXP6T48rt8Gc8Hch9OZIj0A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", NDTV Profit
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -744,7 +744,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Arabic" tvg-logo="" tvg-id="", Al-Jazeera
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762281136/ei/UPIJad7QDvy_lu8PsK3gsAY/ip/135.232.232.17/id/bNyUyrR0PHo.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631264/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Q4QC2_F5UNwRggmax41tCrcqgJFXHy402aUfs9cPLNywYW9X-gxKME8NtdY4YxKPQXtPAikKRv/spc/6b0G_L6cBho263XddHK3wsAKnGK01IR-kClSENh3DBnCkhj2Toc5PeDoLB8_5gVY4Bk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOmBXhx5Nh7JDoCwn1PTqzVchrWGKk0r7axWEf6uPnVIAiEA6hiqC-5hXnAkPCkiGEC1cs7vNcUBDcaHNxx3M-V9Cqo%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Arabic" tvg-logo="" tvg-id="", Al-Jazeera Mubasher
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
