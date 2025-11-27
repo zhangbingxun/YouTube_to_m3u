@@ -327,7 +327,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj" tvg-id="", GBNews
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764246152/ei/KO4naYf6IfCGr9gP-bi-mAM/ip/20.102.47.192/id/5KfnZuJKtVw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51659838/txs/51659836%2C51659837%2C51659838/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5S72Dj3iL1ECV9HbeidkZ3SyhnqggyqtZiBMoOzxJNu0hJoJ8bQ2Y3ufFN5ipC9SP0rl9fOJeAa/spc/6b0G_NCYUZh5bpgW7jRFj6kLXZS-IaHGYX3AVPaCTCNi67628OtcGnTl_F5PwLCK7Jg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIZTC8ZLAbXAtHp3PsM78ylWttWzC3nsVi4vVopBu7nXAiEA_8tUtRe9TMlf7ieS4hiR02cj3kxx__8vpFWQeSa1TB4%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -513,7 +513,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Alishan Eryanping Trail
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764246207/ei/X-4naYqFJoG4kucPms2ISA/ip/20.102.47.192/id/j2L_559nCjc.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51679573/txs/51679570%2C51679571%2C51679573/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Rgv5aJIU9aeMCP7o-PuDsQhf-OEtuMYQdpHf6uJqw6rp8qMV_0I8wNVle9XbogQdJUBv2gPy7m/spc/6b0G_CyTG1q4XzQ37oNwxFa-79IpbyaK8IuVV9VtM9OrSX_x-Z7EAil_vTTdg4cuNdE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL3Ie7o7W83E6LjejAvJVa6V7FG3a5VYdVYZOF99rK8EAiEA9tHZ0HGJ7jCABw80AF-9s23I4w0zVXWIRnL3WzOz3sw%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Alishan Taiping Suspension Bridge
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
