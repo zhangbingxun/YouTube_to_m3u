@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" tvg-id="", Mathrubhumi News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1770921972/ei/lMuNaeOiIMvPkucPmLOO2QE/ip/135.119.239.132/id/YGEgelAiUf0.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51691027%2C51691028/hfr/1/maudio/1/bui/AW-iu_rMvA0KNhZ7tUpRugY674XnYX2KtHrkzz_ixy9MjTQPBGm9QaX1tKvhGfEt2gnmAa655dQq48BP/spc/q5xjPHbL7ZYIxMf2rWxbr9D3Ha3DsTfdb7oRNcH0tGiFfAItQeNb_MGYqXMoDtndrDMLgw/vprv/1/go/1/ns/Bnbs8i7yxaJvg8WgBeFdsF4S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565682%2C51580968%2C51772949/dover/11/n/LhChLTARIsyXy3Sm/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAO_HiPsCtn7spsYvU3gEpJYjA-_pGNc45OLG0G_uWRiOAiEAqnM234rSS1ylHHqCzoRXLh5n0nmT5c3g28uJ6d2tzhU%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" tvg-id="", Media One News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -678,7 +678,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", The Good Life Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1770922203/ei/e8yNaf7pJ6WpkucP6PDhgQw/ip/135.119.239.132/id/36YnV9STBqc.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rtm_NzNRkRjwSCv4gmP1k-NBlZJcT1L6kF76vedpaBDplbhWn2A0X6LFYmjI4zZWyzG9Q2MDmq/spc/q5xjPKGsHOaXSqlVH1ZEBVzr6B2jjmKicP7AKyJ_0WgBkXNe_TMSP_TXagbAUm8MFEowVQ/vprv/1/go/1/ns/e-vW91v4wZvIZ1woayaIwTMS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968/dover/11/n/os9fm5Zt9MHomTg9/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhANyphZZcZOy2XAuiy9d66qHdr_BXmn7J7TgCQAGU1pTJAiBUTFFVJUPflXSC4DRX5cFX5sJRivmyBIG2rOskem6Fvg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Deep House Radio
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
