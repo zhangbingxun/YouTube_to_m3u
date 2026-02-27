@@ -132,7 +132,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Roland Martin Unfiltered
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772227968/ei/ILmhafDTFLOY-coP_9-b-Ac/ip/52.173.178.214/id/I7dPShyDt0g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51757983/txs/51757982%2C51757983%2C51757984%2C51757985/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-yXtThcastNPU7B4b2Ve3LjHlDzAHysqSeoyRGgtR2pyqMwG7wClVlY_44LfHh5fYzN4PK1EBbN/spc/6dlaFPYGgT7669V8SM6FX0IREmv3Pp5Wiuz-2ZYq_3M6VUMUP3352D41jPP_PHKdtuX-xw/vprv/1/go/1/ns/NcL9BcwvMXZN8lD3vWnKIKAS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968%2C51791333%2C51801809/dover/11/n/mUg9jGfakCzLZYCp/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAOuyYtztHKQGX4FFLpMjtYz2s0geVWSUGT2CEJgtEAnNAiEAotYpZktTfPslbYDuUlmpW7FVCsc4_V8E4AR2pTAKP7s%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Sky News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
