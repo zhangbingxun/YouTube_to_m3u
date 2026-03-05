@@ -267,7 +267,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Chillout Lounge - Calm & Relaxing Background Music
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772747033/ei/uaSpaZLYMIuLlu8P7YHCyQc/ip/135.232.208.186/id/9UMxZofMNbA.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774352/txs/51774349%2C51774350%2C51774351%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-x1RrqHh_zm5Y1jDC7kJAa9qjouafAMfAfL2Brj-ET75pTa27AB3cnq1MUo2JTNIX2cdTB-NrBG/spc/6dlaFBvVbwZcqpbsY2CYpuFaDtrtTdwlfKXr6PmzsL4pqATWrB0-Q3IjKtGl7dPvZJgcwQ/vprv/1/go/1/ns/Pcb0RJMJZoUrDa-zvg5psnwT/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/xVAEQSNxwN23EiM07_52/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhANU7ZQoEf1U0C17NBMRhCqeIQxllkHdQM8zIRb2eSgfLAiA2s5K-hz973sk6RVT-qc9dl_Ki1CeQy26H8PQj3JjCSA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Türk" tvg-logo="" tvg-id="", ATV Canlı Yayını
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
