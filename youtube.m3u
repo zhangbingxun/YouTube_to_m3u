@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", Euronews Albania
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1776906156/ei/TBvpaeaoE6uY-coPje-V6Qk/ip/64.236.135.122/id/6vdlbPkRZt0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGJTfoVKLJP26R2sd9fr6RbcpopLo9xvzlDRT4aYQor-YA34jRaJM7MI3FwsvvEp1uGynFe0jVZK/spc/jlWavQmleKfOeKMFJJsEeh_YALiMNKsUexZ27AuJXUqrBDUB2NbogmyRhH45OVOixru1HA/vprv/1/go/1/ns/l7mVM5TyZgfcLR9VicZDVScU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51869322/dover/11/n/COtgwP4AYlbNDC-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgaMQZICfA9-sCq1WgoZ-8hJUAmDbNgJ5dvPdXv2VvUhECIQCwM_mWj3oGeARQJXbs5MwWUfPuS_QhtOTEQ9U0HGM37A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Insomniac
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -321,7 +321,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1776906243/ei/oxvpaaeCHo-lir4P8bWp0QI/ip/64.236.135.122/id/LuKwFajn37U.92/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828959/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGLlbvQKJxsW6JVP65Rozx-9mxXnqnNeMWC-GiiEuP4xiep_YaBq5RHEH2GILnQY0jfKHZFJKHvU/spc/jlWavZ_AJaRMo-yT3vMtbJxbXtuP0mPApbAET01ZRRBMYk7LYyTJ6dEAy2QwstlOaQpeKw/vprv/1/go/1/ns/SGJhxogST6rTg6KqshYjrt4U/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51869322/dover/11/n/CNu_a-tjx1Vt1Lt/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAKJZ2ZmKvBfPZ1fCEGvWfkTCgCnuvWcNv0Lg6KGgxuZwAiEAw7TS_mVk0dHbmp1Q9XbSQ13v2GiIWHjFeINQvJoO96U%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
