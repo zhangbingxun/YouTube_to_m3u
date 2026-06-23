@@ -312,7 +312,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTG_qnW-VSIBNXd1LJRD3Ud6bYSERVFJ4GBlO0U=s176-c-k-c0x00ffffff-no-rj" tvg-id="", NTV Kenya Kenya
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782265996/ei/LOQ6aqWIDeSdzN0PisXA-QU/ip/172.184.174.150/id/ZRDj5GXNezw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEXaFnzJQBhjuC9Gbx-xUsg3T-tir6xwjhJZqhSKl6aOsY4kJIb0i4NeZl5KzzvdpFjj-frrrChn/spc/SQ-umtmys7ZjMkkF_oEW9uT7ockwQSuN3FKnfPFoh5DrZy96qUeiPW9teumrWNPDxmCb5Q/vprv/1/go/1/ns/qXduxywLZUcvMRZ5T4vet04W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51987687/dover/11/n/b7A0AzRyQaEZLF6d/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhANgXkr8WQJAKlGKo7eCVIESDW8UNgCodcWEqE0bFlMKxAiAdoSlsxAieqE9uI9c16srNytySMVOwEVuJSIPZHb33xQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkcR_PzChnpoy_CFEHOhBJoWYzJPUOryL2McEGBSQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", KTN News Kenya
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -411,7 +411,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", WB Kids live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782266034/ei/UuQ6auP0EZaKlu8PjICYkQU/ip/172.184.174.150/id/hYxF7WBSQsI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/ARmQxEWkvNMbOhEw_-Y58uAx2J8WQ-dbesib10n8VNggb3v1rOnIG3W4-xDhWJYDN4LmV_iKGxG1aCpk/spc/SQ-umgbwNNIvjaOpIweHhrZaIi5N6nnZ_GJBDE4hvlfT3ul8-ym4b2z9OaAsELScqC81FA/vprv/1/go/1/ns/_OLlKiPGswGhVGS0mD-Hm28W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687/dover/11/n/6t4aAX7sAbO4n702/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAMZ2aWf5pddMgrCwwRTsNtDvKqTHHPTe52DtwCrodDxOAiEAosAXV_rsyWTHkihESsHXSZ9b_X-22Ms1-xgE8b4_EUw%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", DC Kids live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -432,7 +432,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Saam TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782274193/ei/MQQ7apSfIpXlir4PpaepkQE/ip/172.185.46.218/id/ISrEVpxTyVs.55/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWvQDHJol-vOtBCiACctrAHgjNQdbbluGztoDaMjBH9z3hwHtZo_YF-HafluPXEK-fx3YfGVKHy/spc/SQ-umiWXIVpC2PK8Dmkxdypz0GPTUQsafTy2uF_abdLVqOklF7Jx-bVb6OBWrbZaQMuAaA/vprv/1/go/1/ns/RjDMTr7pgiNgVDqPpLrNLEsW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51987687/dover/11/n/RnggSTv5KCT5oXG8/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhANl0CFI0KJdoMldZHA5FGyO8Bny2ymPNoBzaQvZ6pbLyAiEA9BHPK9FXrmERW4WEmJhcEZ4Gilw2rYdB4V2sA0iC6Xg%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Lokshahi News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
