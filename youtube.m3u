@@ -492,7 +492,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Al Jazeera
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1786743937/ei/ITh_ao7DNvH5vPEPy83t4Q8/ip/57.151.128.134/id/gCNeDWCI0vo.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AZFlqhNsNjOPYy0-0eoHrkXSG9fhXpdNivEEFVpAyyva-ZWAf5jkFF6JxskHm4n_w_p6vcV8EU2QKi1N/spc/KBGBchwPS6FDFdgbHLywVmPGbJGdzKKEPOllqdBUgPeUYuQwXydQ-XwW_9o-rQE4-QasEC4c/vprv/1/go/1/ns/1X5QRvY93FYSt-sOZR50NU8X/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51946837%2C51973818%2C52089683/dover/11/n/AghVn3lvjxPWlqMym9/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgKbnsKJ0V7oMgMxeFUPforMUDTs8iq1vbQjp8qZ5i8oICIDFJMLpAQmnGXHNp1iSzVwJEzWA6uMuDaxWPcPyqPBvY/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.dribbble.com/users/3547568/screenshots/14395014/media/0b94c75b97182946d495f34c16eab987.jpg" tvg-id="", Hindi hits LOve
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
